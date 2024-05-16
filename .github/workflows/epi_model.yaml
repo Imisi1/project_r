@@ -17,7 +17,7 @@ on:
 
   workflow_dispatch:
 
-name: epi_model
+name: automate_r_proj
 
 jobs:
   epi-model:
